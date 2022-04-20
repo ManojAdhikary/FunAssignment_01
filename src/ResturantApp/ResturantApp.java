@@ -24,7 +24,7 @@ public class ResturantApp {
 			
 			System.out.println("************************" );
 			
-			System.out.println("                1. Chicken Biryani       ");
+			System.out.println("                1. Biryani              ");
 			System.out.println("                2. Drinks                ");
 			System.out.println("                3. Ice Cream             ");
 			System.out.println("                4. Bill                  ");
